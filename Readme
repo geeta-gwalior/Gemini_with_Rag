@@ -8,3 +8,4 @@ Embeddings: Generate text embeddings with Gemini AI.
 Vector Store: Store the embeddings in Chroma (alternatives: Pinecone, FAISS, Weaviate).
 Document Retrieval: Retrieve relevant documents based on a user query.
 Question-Answer Chain: Use Gemini AI to generate answers using retrieved documents.
+https://medium.com/p/24636dd21f5b/edit
